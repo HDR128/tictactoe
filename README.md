@@ -7,7 +7,6 @@ Make your move by selecting a number corresponding to each grid as below:
  1 | 2 | 3 
 ---|---|---
  4 | 5 | 6
----|---|---
  7 | 8 | 9
 
 
